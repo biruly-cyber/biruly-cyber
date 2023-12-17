@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhagwan Biruly</h1>
-<h3 align="center">I am a Software Developer from INDIA. </h3>
+<h3 align="center">I am a passinate Software Developer from INDIA. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biruly-cyber&label=Profile%20views&color=0e75b6&style=flat" alt="biruly-cyber" /> </p>
 
