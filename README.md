@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biruly-cyber&show_icons=true&locale=en" alt="biruly-cyber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biruly-cyber&" alt="biruly-cyber" /></p>
-<p>[![B.Biruly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=biruly-cyber)](https://github.com/biruly-cyber/github-readme-activity-graph)</p>
+
