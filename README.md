@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biruly-cyber&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruly-cyber&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
@@ -64,11 +64,3 @@ Brief description of Project 3.
 If you like my work, consider buying me a coffee!
 
 [![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biruly-cyber&show_icons=true&locale=en&layout=compact" alt="biruly-cyber" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biruly-cyber&show_icons=true&locale=en" alt="biruly-cyber" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biruly-cyber&" alt="biruly-cyber" /></p>
