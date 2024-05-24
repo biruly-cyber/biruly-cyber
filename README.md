@@ -1,6 +1,6 @@
 # Hi there, I'm Bhagwan Biruly 👋
 
-Welcome to my GitHub profile! I'm passionate about mobile development, web development, data science, open-source contributions, etc.
+Welcome to my GitHub profile! I'm passionate about mobile development, web development, machine learning, open-source contributions, etc.
 
 ## 🚀 About Me
 
