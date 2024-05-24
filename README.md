@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Bhagwan Biruly 👋
 
-Welcome to my GitHub profile! I'm passionate about [Your Interests, e.g., web development, data science, open-source contributions, etc.].
+Welcome to my GitHub profile! I'm passionate about mobile development, web development, data science, open-source contributions, etc.
 
 ## 🚀 About Me
 
-- 🎓 I have a [Degree] in [Field] from [University].
-- 💼 Currently working at [Your Company] as a [Your Job Title].
-- 🌱 I’m currently learning [Your Learning Focus, e.g., React, machine learning, Docker, etc.].
-- 👯 I’m looking to collaborate on [Projects or Areas of Interest].
-- 💬 Ask me about [Topics you're knowledgeable about].
-- 📫 How to reach me: [Your Email or other contact info].
-- ⚡ Fun fact: [An interesting fact about you].
+- 🎓 I have a Master Degree in Computer Application from Ranchi University.
+- 💼 Currently working at Blurock Wealth pvt. ltd. as a Software Developer.
+- 🌱 I’m currently learning React, NextJS, Mobile Development, machine learning, Docker, etc.
+- 👯 I’m looking to collaborate on nextJS project.
+- 💬 Ask me about web development, mobile development and machine learning.
+- 📫 How to reach me: biruly2020@gmail.com
+- ⚡ Fun fact: Travel Enthusiast, Adventure Lover and Music.
 
 ## 🛠️ Languages and Tools
 
