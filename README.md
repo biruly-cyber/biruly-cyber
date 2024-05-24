@@ -41,31 +41,65 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ## 📚 Projects
 
-### [Project 1](https://github.com/yourusername/project1)
-Brief description of Project 1.
+### [BirulyGrocery.com](https://github.com/biruly-cyber/shop)
 
-### [Project 2](https://github.com/yourusername/project2)
-Brief description of Project 2.
+BirulyGrocery.com is a comprehensive web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to efficiently manage grocery sales and inventory. The platform streamlines order processing, generates detailed sales reports, and maintains accurate inventory levels.
 
-### [Project 3](https://github.com/yourusername/project3)
-Brief description of Project 3.
+### Key Features
+
+- **Sales Management**: Create, track, and complete customer orders with ease. Generate detailed sales reports to analyze performance and trends.
+- **Inventory Management**: Monitor inventory in real-time, receive low stock alerts, and manage product batches to ensure freshness.
+- **Analytics and Reporting**: Access performance metrics, generate inventory and sales reports, and analyze data to make informed decisions.
+- **User Management**: Implement role-based access control and manage user profiles.
+
+### Technology Stack
+
+- **Frontend**: React for a dynamic interface, Redux for state management, and Bootstrap/Material-UI for styling.
+- **Backend**: Node.js and Express.js for server-side operations.
+- **Database**: MongoDB for flexible data storage.
+- **Additional Tools**: Mongoose for data modeling and JWT for secure authentication.
+
+### Benefits
+
+- **Efficiency**: Streamlines sales and inventory processes, reducing manual effort and errors.
+- **Scalability**: MERN stack ensures the system can grow with your business.
+- **Accuracy**: Precise tracking of sales and inventory optimizes resources and minimizes waste.
+- **User-Friendly**: Intuitive design enhances user experience and reduces training time.
+- **Real-Time Data**: Provides up-to-date information for better decision-making.
+
+BirulyGrocery.com helps grocery businesses optimize operations, improve customer satisfaction, and drive growth.
+
+### [Order Management System](https://github.com/blurockinno/erp)
+
+The Order Management System (OMS) is a powerful web application designed to streamline the operations of an event services business that manages orders for tents, catering, decorations, and lighting. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), the OMS simplifies order processing, recipe calculation, and inventory management.
+
+### Key Features
+
+- **Order Management**: Easily create, track, and modify orders for various event services.
+- **Recipe Calculation**: Automatically calculate ingredient quantities for catering based on guest numbers and menu items.
+- **Inventory Management**: Maintain real-time inventory tracking for all items, with alerts for low stock levels.
+- **Reporting and Analytics**: Generate detailed reports on orders, inventory, and financial performance.
+- **User Management**: Implement role-based access control and manage user profiles.
+
+### Benefits
+
+- **Efficiency**: Reduces manual effort and potential errors in order processing.
+- **Accuracy**: Ensures precise recipe and inventory calculations, minimizing waste.
+- **Scalability**: Built on the robust MERN stack, capable of growing with your business.
+- **User-Friendly**: Intuitive interface reduces training time and improves productivity.
+- **Real-Time Data**: Provides up-to-date information for informed decision-making.
+
+The OMS is designed to optimize operations, improve customer satisfaction, and drive business growth for event service providers.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagwan-biruly/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biruly2020@example.com)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Post Title 1](https://yourblog.com/post1)
-- [Post Title 2](https://yourblog.com/post2)
-- [Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💖 Support Me
 
 If you like my work, consider buying me a coffee!
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/coffeewithbiruly)
