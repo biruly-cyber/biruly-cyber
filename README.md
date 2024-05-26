@@ -33,9 +33,9 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ## 🔥 My Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biruly-cyber&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biruly-cyber&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruly-cyber&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruly-cyber&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biruly-cyber&theme=dark)
 
