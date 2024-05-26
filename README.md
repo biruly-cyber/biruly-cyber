@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=biruly-cyber&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=biruly-cyber)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biruly-cyber&theme=dark)
 
 
 ## 🏆 Achievements
