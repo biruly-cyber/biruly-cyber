@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about mobile development, web development, machine learning, open-source contributions, etc.
 
+<img src="https://komarev.com/ghpvc/?username=biruly-cyber&color=brightgreen" alt="watching_count" />
 ## 🚀 About Me
 
 - 🎓 I have a Master Degree in Computer Application from Ranchi University.
@@ -39,6 +40,8 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biruly-cyber&theme=dark)
 
+<img src="https://myreadme.vercel.app/api/embed/biruly-cyber?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 ## 🏆 Achievements
 
@@ -52,51 +55,9 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 BirulyGrocery.com is a comprehensive web application built using the MERN stack (MongoDB, Express.js, React, and Node.js) to efficiently manage grocery sales and inventory. The platform streamlines order processing, generates detailed sales reports, and maintains accurate inventory levels.
 
-### Key Features
-
-- **Sales Management**: Create, track, and complete customer orders with ease. Generate detailed sales reports to analyze performance and trends.
-- **Inventory Management**: Monitor inventory in real-time, receive low stock alerts, and manage product batches to ensure freshness.
-- **Analytics and Reporting**: Access performance metrics, generate inventory and sales reports, and analyze data to make informed decisions.
-- **User Management**: Implement role-based access control and manage user profiles.
-
-### Technology Stack
-
-- **Frontend**: React for a dynamic interface, Redux for state management, and Bootstrap/Material-UI for styling.
-- **Backend**: Node.js and Express.js for server-side operations.
-- **Database**: MongoDB for flexible data storage.
-- **Additional Tools**: Mongoose for data modeling and JWT for secure authentication.
-
-### Benefits
-
-- **Efficiency**: Streamlines sales and inventory processes, reducing manual effort and errors.
-- **Scalability**: MERN stack ensures the system can grow with your business.
-- **Accuracy**: Precise tracking of sales and inventory optimizes resources and minimizes waste.
-- **User-Friendly**: Intuitive design enhances user experience and reduces training time.
-- **Real-Time Data**: Provides up-to-date information for better decision-making.
-
-BirulyGrocery.com helps grocery businesses optimize operations, improve customer satisfaction, and drive growth.
-
 ### [Order Management System](https://github.com/blurockinno/erp)
 
 The Order Management System (OMS) is a powerful web application designed to streamline the operations of an event services business that manages orders for tents, catering, decorations, and lighting. Built using the MERN stack (MongoDB, Express.js, React, and Node.js), the OMS simplifies order processing, recipe calculation, and inventory management.
-
-### Key Features
-
-- **Order Management**: Easily create, track, and modify orders for various event services.
-- **Recipe Calculation**: Automatically calculate ingredient quantities for catering based on guest numbers and menu items.
-- **Inventory Management**: Maintain real-time inventory tracking for all items, with alerts for low stock levels.
-- **Reporting and Analytics**: Generate detailed reports on orders, inventory, and financial performance.
-- **User Management**: Implement role-based access control and manage user profiles.
-
-### Benefits
-
-- **Efficiency**: Reduces manual effort and potential errors in order processing.
-- **Accuracy**: Ensures precise recipe and inventory calculations, minimizing waste.
-- **Scalability**: Built on the robust MERN stack, capable of growing with your business.
-- **User-Friendly**: Intuitive interface reduces training time and improves productivity.
-- **Real-Time Data**: Provides up-to-date information for informed decision-making.
-
-The OMS is designed to optimize operations, improve customer satisfaction, and drive business growth for event service providers.
 
 ## 📫 Connect with Me
 
