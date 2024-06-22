@@ -64,7 +64,8 @@ The Order Management System (OMS) is a powerful web application designed to stre
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagwan-biruly/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:biruly2020@example.com)
-[![Leetcode](https://img.shields.io/badge/-Leetcode-D14836?style=flat&logo=gmail&logoColor=white)](https://leetcode.com/u/biruly23/)
+[![Leetcode](https://img.shields.io/badge/-Leetcode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/biruly23/)
+
 
 
 ## 💖 Support Me
