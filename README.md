@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm passionate about mobile development, web devel
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biruly-cyber&theme=dark)
 
-<img src="https://myreadme.vercel.app/api/embed/biruly-cyber?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 
 ## 🏆 Achievements
